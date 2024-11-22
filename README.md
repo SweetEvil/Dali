@@ -1,1 +1,1 @@
-# Dali
+# Dali‘s learning notes
